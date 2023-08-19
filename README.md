@@ -1,4 +1,4 @@
-# 👋Hello !
+# 👋 Hi !
 # 💻Tech Stack
 <img height="50px" width="100px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">++++</img>
 <img height="50px" width="100px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">++++</img>
