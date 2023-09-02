@@ -3,7 +3,7 @@
 <img height="50px" width="100px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></img>
 <img height="50px" width="100px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></img>
 <img height="50px" width="100px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"></img>
-<img height="60px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></img>
+<img height="60px" width="100px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"></img>
 <img height="60px" width="100px" src="https://cdn.worldvectorlogo.com/logos/c.svg"></img>
 
 
