@@ -1,6 +1,6 @@
 <h3 align="center">Hello</h3>
 
-<h3 align="center">Connect with me: <br> https://www.facebook.com/juice.cocomelonjuice/ <br> https://t.me/MinhTien293 </h3>
+<h3 align="center">Connect with me: <br> https://www.facebook.com/juice.cocomelonjuice/ https://t.me/MinhTien293 </h3>
 
 <p align="center">
   <h3 align="center">Languages and Tools:</h3>
