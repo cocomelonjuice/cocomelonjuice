@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Connect me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <a href="https://www.facebook.com/juice.cocomelonjuice/"><img src="" alt="" style="width:10 px;height:10 px;"></a>
 <a href="https://t.me/MinhTien293"><img src="" alt="" style="width:10 px;height:10 px;"></a>
