@@ -22,7 +22,15 @@
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" class="Tailwind"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" class="Tailwind"/> </a> 
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer" class="React"> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" class="React"/> </a> 
+
+  <!--<a href="  https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" class="CSS"> 
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" class="CSS"/> </a> -->
+
   
+
   </p>
 </p>
 
