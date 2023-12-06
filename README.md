@@ -13,14 +13,19 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="Js"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" class="Js"/> </a> 
   
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="C++"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" class="C++"/> </a>
+  <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target="_blank" rel="noreferrer" class="Typescript"> 
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" class="Typescript"/> </a> 
+  
+  
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer" class="React"> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" class="React"/> </a> 
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" class="Tailwind"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" class="Tailwind"/> </a> 
 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer" class="React"> 
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" class="React"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="C++"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" class="C++"/> </a>
 
   <!--<a href="  https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" class="CSS"> 
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" class="CSS"/> </a> -->
