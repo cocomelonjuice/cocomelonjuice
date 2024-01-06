@@ -25,7 +25,8 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" class="Tailwind"/> </a> 
 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="C++"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" class="C++"/> </a>
+    <!--https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg-->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40" class="C++"/> </a>
 
   <!--<a href="  https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" class="CSS"> 
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" class="CSS"/> </a> -->
