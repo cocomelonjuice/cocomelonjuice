@@ -23,8 +23,8 @@
 
   <a href="https://redux-toolkit.js.org/introduction/getting-started" target="_blank" rel="noreferrer" class="Redux"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" class="Redux"/> </a> 
-   <a href="  https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" class="CSS"> 
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" class="CSS"/> </a> 
+   <!--<a href="  https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" class="CSS"> 
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" class="CSS"/> </a> -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" class="Tailwind"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" class="Tailwind"/> </a> 
 
