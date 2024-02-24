@@ -28,11 +28,14 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" class="Tailwind"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" class="Tailwind"/> </a> 
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="C++"> 
+ 
+
+ <a href="https://supabase.com/" target="_blank" rel="noreferrer" class="supabase"> 
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40" class="supabase"/> </a>
+
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="C++"> 
     <!--https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40" class="C++"/> </a>
-
- 
 
   
 
